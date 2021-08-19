@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Reactjs, and competitive programming.
 
-- 💞️ I’m looking for an internship for the future growth, learning and experience.
+- 💞️ Currently I'm working as an intern in LTTS.
 
 - 📫 How to reach me ...
 - You can reach me on my email id -> harshitchaurasia21aug@gmail.com
